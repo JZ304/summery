@@ -1,2 +1,6 @@
 hello world
 22222
+<<<<<<< HEAD
+=======
+this is branch of bugMaster!
+>>>>>>> bugMaster
